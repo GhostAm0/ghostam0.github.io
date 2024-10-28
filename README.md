@@ -1,1 +1,0 @@
-# ghostam0.github.io
