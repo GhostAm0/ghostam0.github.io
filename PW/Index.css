@@ -1,4 +1,4 @@
-/* Reglas predefinidas */
+
 html { scroll-behavior: smooth; }
 body * { font-family: "Montserrat", system-ui, sans-serif; }
 h1 { font-size: 3.2rem; }
@@ -6,17 +6,6 @@ h2 { font-size: 2.4rem; }
 h3 { font-size: 1.6rem; }
 h4 { font-size: 1.2rem; }
 
-/* Reglas generales */
-/*header * {
-   border: 1px solid orangered;
-}*/
-:root {
-   --colorDeAcento2: #91ffc8;
-   --colorDeAcento1: #00c864;
-   --colorDeAcento: #006432;
-   --colorDeAcento-1: #003216;
-   --colorDeAcento-2: #001608; 
-}
 ul, ol { padding-left: 20px; }
 ul > li:has(a)::marker, ol > li:has(a)::marker { content: none; }
 ul > li:has(strong), ol > li:has(strong) { list-style: none; margin-bottom: 4px; }
